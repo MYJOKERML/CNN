@@ -1,3 +1,3 @@
 # CNN
 
-MNIST Handwritten Character Recognition Model Built Using CNN
+### MNIST Handwritten Character Recognition Model Built Using CNN
